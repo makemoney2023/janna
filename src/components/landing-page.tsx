@@ -147,8 +147,8 @@ export default function LandingPage() {
                 <p>The meeting was an informal conversation between two professionals discussing their experiences with AI in product management. The atmosphere was friendly, highlighting shared backgrounds and interests.</p>
                 <h4 className="text-md font-semibold mt-2 mb-1">Locations</h4>
                 <ul className="list-disc list-inside">
-                  <li>Participant 1 is located in Cambridge, Ontario.</li>
-                  <li>Chris is based in the UK.</li>
+                  <li>Chris is located in Cambridge, Ontario.</li>
+                  <li>Janna, orginally from Burlington, Ontario is now based in the UK.</li>
                 </ul>
                 <h3 className="text-lg font-semibold mb-2">Key Discussion Points</h3>
                 <h4 className="text-md font-semibold mt-2 mb-1">Personal Backgrounds</h4>
