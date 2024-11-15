@@ -384,7 +384,7 @@ export default function LandingPage() {
             <p className="text-lg text-gray-600 mt-4">
               To implement a feature in ProdPad that allows users to push an idea straight to production via an autonomous agent, the product and development team would need to follow a structured approach. Learn how by downloading our guide.
             </p>
-            <a href="/implementation.pdf" download className="btn btn-primary">
+            <a href="/implementation.pdf" download className="inline-flex items-center justify-center bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700">
               Download Guide
             </a>
           </div>
